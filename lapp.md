@@ -31,24 +31,25 @@ Azure Logic Apps is a cloud platform where you can create and run automated work
    ![](https://github.com/Tejees/logic-app/blob/main/3.png)
 
 4. Fill the details under **Basics tab (1)**
-  -In project details fill the **Subscription (2)** and **Resource group (3)**.
+   
+   -In project details fill the **Subscription (2)** and **Resource group (3)**.
 
-  -Under Instance details fill **logic name (4)**, **region (5)** and **windows plan (6)**.
+   -Under Instance details fill **logic name (4)**, **region (5)** and **windows plan (6)**.
 
    ![](https://github.com/Tejees/logic-app/blob/main/4.png)
 
-5. Click Storage tab Under **storage tab (1)** the steps to be followed
+6. Click Storage tab Under **storage tab (1)** the steps to be followed
    -Select the existing **storage account (2)**, select **Storage type by default Azure Storage (3)** is Present and click **Review+Create (4)**.
 
     ![](https://github.com/Tejees/logic-app/blob/main/5.1.png)
 
-6. After clicking Review+Create
+7. After clicking Review+Create
 
    -It validates all the steps in **Review+Create (1)** then it allows you to **create (2)** the logic app.
 
     ![](https://github.com/Tejees/logic-app/blob/main/6.png)
 
-7. Then Logic app is going to be deployed.
+8. Then Logic app is going to be deployed.
    
    -After deployement **go to resource (1)** tab.
 
